@@ -1,0 +1,271 @@
+.bg-container {
+    background-color: #86858e;
+    height: 100vh;
+    background-size: cover;
+}
+
+.card {
+    height: 200px;
+    text-align: center;
+    background-color: #e0e8ee;
+    border-top-right-radius: 120px;
+    border-top-left-radius: 120px;
+    border-bottom-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+    padding: 3px;
+    margin: 40px;
+
+}
+
+.paragraph-home-page {
+    font-family: Lobster;
+}
+
+.main-heading {
+    font-family: Lobster;
+    font-size: 40px;
+    color: #6c5c75;
+    text-align: center;
+
+}
+
+.paragraph {
+    font-family: Arial;
+
+}
+
+.button {
+    height: 35px;
+    width: 110px;
+    background-color: #86858e;
+    border-color: black;
+    align-self: center;
+    color: white;
+    border-radius: 50px;
+    border-width: 0px;
+    border-style: double;
+}
+
+.Categories-bg-container {
+    background-color: #e0e8ee;
+    height: 130vh;
+    background-size: cover;
+}
+
+.carousel-container {
+    margin: 35px;
+}
+
+.Category-heading {
+    color: black;
+    font-size: 30px;
+    font-family: Georgia;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.categories-card-container {
+    background-color: #c5b8cb;
+    color: black;
+    font-family: Times New Roman;
+    font-style: italic;
+    padding: 8px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin: 20px;
+
+
+}
+
+.image {
+    height: 70px;
+    width: 120px;
+    border-radius: 15px;
+}
+
+.grocery-card-container {
+    background-color: #c5b8cb;
+    color: black;
+    font-family: Times New Roman;
+    font-style: italic;
+    padding: 8px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin: 20px;
+}
+
+.button-back {
+    height: 35px;
+    width: 110px;
+    background-color: #86858e;
+    border-color: black;
+    align-items: center;
+    color: white;
+    border-radius: 50px;
+    border-width: 0px;
+    border-style: double;
+    margin-left: 220px;
+}
+
+.carousel-item {
+    align-content: center;
+}
+
+.clothes-bg-container {
+    background-color: #9cbacd;
+    background-size: cover;
+    height: 150vh;
+}
+
+.clothes-bg-container {
+    background-color: #e0e8ee;
+    background-size: cover;
+    height: 130vh;
+    text-align: center;
+}
+
+.brand-heading {
+    font-family: Georgia;
+    padding: 5px;
+}
+
+.clothes-brand-container-1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.Zara-card {
+    height: 160px;
+    width: 150px;
+    background-color: white;
+    border-radius: 12px;
+    margin-right: 50px;
+}
+
+.logo-image {
+    height: 60px;
+    width: 145px;
+    padding: 5px;
+}
+
+.versace-card {
+    height: 160px;
+    width: 150px;
+    background-color: white;
+    border-radius: 12px;
+    margin-left: 20px;
+}
+
+.logo-image-versace {
+    height: 110px;
+    margin-top: 25px;
+}
+
+.gucci-card {
+    height: 160px;
+    width: 150px;
+    background-color: white;
+    border-radius: 12px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+.logo-image-gucci {
+    height: 100px;
+    width: 140px;
+    margin-top: 30px;
+}
+
+.enjoy-card {
+    height: 160px;
+    width: 150px;
+    background-color: white;
+    border-radius: 12px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.logo-image-enjoy {
+    height: 140px;
+    margin-top: 5px;
+}
+
+.holister-card {
+    height: 160px;
+    width: 150px;
+    background-color: white;
+    border-radius: 12px;
+    margin-right: 50px;
+    margin-top: 35px;
+}
+
+.logo-image-holister {
+    height: 110px;
+    margin-top: 20px;
+}
+
+.vimy-card {
+    height: 160px;
+    width: 150px;
+    background-color: white;
+    border-radius: 12px;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+
+.logo-image-vimy {
+    height: 110px;
+    margin-top: 25px;
+}
+
+.button-brand-page {
+    height: 45px;
+    width: 145px;
+    color: white;
+    background-color: #545281;
+    border-radius: 8px;
+    margin: 35px;
+    border-width: 0px;
+}
+
+.button-brand-page-back {
+    height: 45px;
+    width: 145px;
+    color: white;
+    background-color: #545281;
+    border-radius: 8px;
+    margin: 35px;
+    border-width: 0px;
+}
+
+.Grocery-page-container {
+    background-color: #e0e8ee;
+    background-size: cover;
+    height: 140vh;
+    text-align: center;
+}
+
+.grocery-card {
+    height: 190px;
+    width: 170px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.image-grocery {
+    height: 130px;
+    width: 140px;
+    margin-left: 16px;
+    margin-top: 5px;
+}
+
+.heading-grocery {
+    font-family: Lobster;
+}
